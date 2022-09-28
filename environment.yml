@@ -1,0 +1,13 @@
+name: attractors
+dependencies:
+  - python=3.9
+  - numpy
+  - scipy
+  - matplotlib
+  - h5py
+  - utils
+  - IPython
+  - torch
+  - functools
+  - argparse
+  - itertools
