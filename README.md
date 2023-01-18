@@ -2,7 +2,7 @@
 
 This code base is the simulation and analysis code for the paper *Multiple bumps can enhance robustness to noise in continuous attractor networks* by Raymond Wang and Louis Kang. 
 
-[https://www.biorxiv.org/content/10.1101/2022.02.22.481545v1](https://www.biorxiv.org/content/10.1101/2022.02.22.481545v1)
+[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010547](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010547)
 
 Our simulation code allows for efficient simulation of a 1-dimensional ring attractor neural network on cuda enabled GPUs and perform various types of analysis.
 
